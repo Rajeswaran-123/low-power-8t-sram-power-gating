@@ -1,4 +1,4 @@
-# 🔋 Low-Power 8T SRAM with Power Gating (90 nm CMOS)
+# Low-Power 8T SRAM with Power Gating (90 nm CMOS)
 
 ![Technology](https://img.shields.io/badge/Technology-GPDK%2090nm-1F6FEB?style=flat-square)
 ![Tool](https://img.shields.io/badge/Tool-Cadence%20Virtuoso-E4572E?style=flat-square)
